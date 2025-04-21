@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrat-ahammed&label=Profile%20views&color=0e75b6&style=flat" alt="samrat-ahammed" /> </p>
 
-- 🌱 I’m currently learning **Html,CSS,JavaScript,NodeJS,React,Next.Js**
+- 🌱 I build real-world apps with HTML, CSS, JS, Node.js, React & Next.js.**
 
 - 💬 Ask me about **Android,Flutter,MEARN**
 
